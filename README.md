@@ -1,10 +1,11 @@
 # crud-express
 un simple crud avec express et mongodb
+## installation
 
-1. cloner le repo
+$ cd crud-express/
 
-2.$ cd crud-express/
+$ npm install
 
-3.$ npm install
+## demarrer serveur
 
-4.$ node server
+$ node server
